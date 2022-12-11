@@ -1,0 +1,26 @@
+.text-red {
+    color: red;
+}
+.fs-16 {
+    font-size: 16;
+}
+.text-darkGreen {
+    color: darkgreen;
+}
+.text-darkblue {
+    color: darkblue;
+}
+.text-center {
+    text-align: center;
+}
+ul {
+    list-style-position: inside;
+    text-align: center;
+}
+ol {
+    text-align: center;
+}
+a {
+    list-style-position: inside;
+    text-align: center;
+}
